@@ -26,4 +26,4 @@ Disallow: /
 
 # 辅助配置
 Crawl-delay: 5
-Sitemap: https://bbsky3099.github.io/tools/sitemap.xml
+Sitemap: https://bbsky3099.github.io/code_validator/sitemap.xml
