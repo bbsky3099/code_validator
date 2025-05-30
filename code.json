@@ -1,0 +1,28 @@
+{
+  "version": "3.0",
+  "master_password": "VAEN-NV7Q-MK6B-NVGU",
+  "036A-BFB9-1B56-D015": {
+    "hardware_id": "036A-BFB9-1B56-D015",
+    "user_key": "FHN5-C8BL-A0MF-EICN",
+    "expiry_date": "GAAA-AABO-OW2I-Z9EJ",
+    "generated_at": "2025-05-30T08:34:16.933107+00:00"
+  },
+  "036A-BFB9-1B56-D016": {
+    "hardware_id": "036A-BFB9-1B56-D016",
+    "user_key": "OD94-QMGE-XECS-DUDH",
+    "expiry_date": "GAAA-AABO-OXDP-RK1O",
+    "generated_at": "2025-05-30T08:48:15.993993+00:00"
+  },
+  "036A-BFB9-1B56-D017": {
+    "hardware_id": "036A-BFB9-1B56-D017",
+    "user_key": "7PT5-AHVR-0BNA-YB7X",
+    "expiry_date": "GAAA-AABO-OXDP-QM4E",
+    "generated_at": "2025-05-30T08:48:15.994493+00:00"
+  },
+  "036A-BFB9-1B56-D018": {
+    "hardware_id": "036A-BFB9-1B56-D018",
+    "user_key": "M6SC-T44L-2Z6L-ALDM",
+    "expiry_date": "GAAA-AABO-OXDP-AXQJ",
+    "generated_at": "2025-05-30T08:48:15.994998+00:00"
+  }
+}
