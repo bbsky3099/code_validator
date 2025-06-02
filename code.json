@@ -1,28 +1,20 @@
 {
-  "version": "3.0",
-  "master_password": "VAEN-NV7Q-MK6B-NVGU",
   "036A-BFB9-1B56-D015": {
     "hardware_id": "036A-BFB9-1B56-D015",
-    "user_key": "FHN5-C8BL-A0MF-EICN",
-    "expiry_date": "GAAA-AABO-OW2I-Z9EJ",
-    "generated_at": "2025-05-30T08:34:16.933107+00:00"
+    "user_key": "MYM1-NTRS-3O6D-JO6H",
+    "expiry_date": "GAAA-AABO-PQXZ-CNS3",
+    "generated_at": "2025-06-02T02:00:57.191363+00:00"
   },
   "036A-BFB9-1B56-D016": {
     "hardware_id": "036A-BFB9-1B56-D016",
-    "user_key": "OD94-QMGE-XECS-DUDH",
-    "expiry_date": "GAAA-AABO-OXDP-RK1O",
-    "generated_at": "2025-05-30T08:48:15.993993+00:00"
+    "user_key": "ZHH0-YELZ-K0JR-OIGR",
+    "expiry_date": "GAAA-AABO-PQXZ-HQ0J",
+    "generated_at": "2025-06-02T02:00:57.191947+00:00"
   },
   "036A-BFB9-1B56-D017": {
     "hardware_id": "036A-BFB9-1B56-D017",
-    "user_key": "7PT5-AHVR-0BNA-YB7X",
-    "expiry_date": "GAAA-AABO-OXDP-QM4E",
-    "generated_at": "2025-05-30T08:48:15.994493+00:00"
-  },
-  "036A-BFB9-1B56-D018": {
-    "hardware_id": "036A-BFB9-1B56-D018",
-    "user_key": "M6SC-T44L-2Z6L-ALDM",
-    "expiry_date": "GAAA-AABO-OXDP-AXQJ",
-    "generated_at": "2025-05-30T08:48:15.994998+00:00"
+    "user_key": "8QYN-43DZ-HIQI-ONBH",
+    "expiry_date": "GAAA-AABO-PQXZ-CYKF",
+    "generated_at": "2025-06-02T02:00:57.192421+00:00"
   }
 }
